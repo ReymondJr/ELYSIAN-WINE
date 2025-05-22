@@ -12,7 +12,7 @@ const ContactInfo = () => {
         <li>Trabajo en equipo</li>
       </ul>
       <h2>Nosotros</h2>
-      <p>Somos una parte de el grado 5to de informática</p>
+      <p>Somos una parte del grado 5to de informática</p>
       <p> de el centro educativo Madre Laura.</p>
 
       <h2>Contacto</h2>

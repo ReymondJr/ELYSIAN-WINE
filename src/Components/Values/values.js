@@ -31,7 +31,7 @@ function Values() {
       {
         title: "QUE LO HACE ESPECIAL O UNICO?",
         subtitle: "Esencia",
-        description: "Elysian wine es un vino único puesto que es un vino artesanal y en cada copa no solo hay vino; sino que hay un esfuerzo, creatividad, trabajo duro en equipo, paciencia y lo q nos caracteriza es el amor que le ponemos al mismo",
+        description: "Elysian wine es un vino único puesto que es un vino artesanal y en cada copa no solo hay vino; sino que hay esfuerzo, creatividad, trabajo duro en equipo, paciencia y lo que nos caracteriza es el amor que le ponemos al mismo",
         image: imagen3
       },
       {
