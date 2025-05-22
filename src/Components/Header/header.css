@@ -1,0 +1,48 @@
+.header {
+   
+    padding-bottom: 60px;
+    background: url('../../img/ELYSIAN\ PNG.png') no-repeat center center;
+    background-size: contain; /* Ajusta el tamaño de la imagen para que no se repita */
+    height: 70vh;
+    
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    list-style: none;
+    padding: 30px 0 0 0;
+    margin: 0;
+    font-size: 3.1rem;
+    letter-spacing: 2px;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+  }
+
+  .header-separator {
+    width: 40%;
+    height: 0;
+    border-bottom: 1.5px solid #fff4;
+    margin: 18px auto 0 auto;
+    opacity: 0.7;
+  }
+
+  @media (max-width: 600px) {
+    .header {
+      height: 44vh;
+    }
+    nav ul {
+      gap: 12px;
+      font-size: 0.95rem;
+      padding: 18px 0 0 0;
+    }
+    .header-separator {
+      width: 70%;
+      margin: 10px auto 0 auto;
+    }
+  }
+
+  
+ 
